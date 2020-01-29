@@ -8,7 +8,7 @@
 #
 ################################################################################
 
-data_name     = "LUCA_TIM_full.fas"
+data_name     = "bmgetest.fas"
 tree_name     = "LUCA_TIM_full.nwk"
 analysis_name = "16_1test_mixture"
 

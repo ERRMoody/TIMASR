@@ -5,7 +5,4 @@ cd /newhome/em16077/TIMASR
 
 module add apps/revbayes.10.06.2019
 
-for i in *.rev
-do	
-	rb $i 
-done
+rb TIMrev.rev

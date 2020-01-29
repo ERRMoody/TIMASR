@@ -8,7 +8,7 @@
 #
 ################################################################################
 
-data_name     = "maffttest.fas"
+data_name     = "neobmge.fas"
 tree_name     = "LUCA_TIM_rooted_full.nwk"
 analysis_name = "TIMASR8mix"
 
@@ -27,7 +27,7 @@ starting_tree <- readTrees("./" + tree_name)[1]
 
 # Get some useful variables from the data. We need these later on.
 n_species  <- data.ntaxa()
-n_branches <- n_species * 2 - 2
+n_branches <- 481
 names      <- data.names()
 
 # set my move index
@@ -153,7 +153,7 @@ clockRate := 10^logClockRate
 "Setting up the PhyloCTMC"
 
 # the sequence evolution model
-seq ~ dnPhyloCTMC(tree=psi, Q=Q, siteRates=sr, pInv=p_inv, rootFrequencies=pi_root, branchRates=clockRate, type="AA")
+seq ~ dnPhyloCTMC(tree=psi, Q=Q, siteRates=sr, pInv=p_inv, rootFrequencies=pi_root, branchRates=clockRate, type="protein")
 
 # attach the data
 seq.clamp(data)
