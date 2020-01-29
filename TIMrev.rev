@@ -8,7 +8,7 @@
 #
 ################################################################################
 
-data_name     = "test2.fas"
+data_name     = "gappyremoved.fas"
 tree_name     = "LUCA_TIM_rooted_full.nwk"
 analysis_name = "TIMASR8mix"
 
