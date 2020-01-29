@@ -1,0 +1,17 @@
+
+RevBayes version (1.0.12)
+Build from master (a6d466) on Tue Jun 11 14:51:53 BST 2019
+
+Visit the website www.RevBayes.com for more information about RevBayes.
+
+RevBayes is free software released under the GPL license, version 3. Type 'license()' for details.
+
+To quit RevBayes type 'quit()' or 'q()'.
+
+
+> source("TIMrev.rev")
+   Processing file "TIMrev.rev"
+   Reading in the data
+   Error:	Unknown data type '' for fasta formatted files.
+   Error:	Problem processing line 25 in file "TIMrev.rev"
+> 
