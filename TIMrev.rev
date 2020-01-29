@@ -10,9 +10,9 @@
 
 data_name     = "neobmge.fas"
 tree_name     = "LUCA_TIM_rooted_full.nwk"
-analysis_name = "TIMASR8mix"
+analysis_name = "16_1test_mixture"
 
-num_mixtures  = 8
+num_mixtures  = 16
 
 #######################
 # Reading in the Data #
@@ -27,7 +27,7 @@ starting_tree <- readTrees("./" + tree_name)[1]
 
 # Get some useful variables from the data. We need these later on.
 n_species  <- data.ntaxa()
-n_branches <- 481
+n_branches <- n_species * 2 - 2
 names      <- data.names()
 
 # set my move index
@@ -153,7 +153,7 @@ clockRate := 10^logClockRate
 "Setting up the PhyloCTMC"
 
 # the sequence evolution model
-seq ~ dnPhyloCTMC(tree=psi, Q=Q, siteRates=sr, pInv=p_inv, rootFrequencies=pi_root, branchRates=clockRate, type="protein")
+seq ~ dnPhyloCTMC(tree=psi, Q=Q, siteRates=sr, pInv=p_inv, rootFrequencies=pi_root, branchRates=clockRate, type="AA")
 
 # attach the data
 seq.clamp(data)
@@ -174,16 +174,16 @@ mymodel = model(Q)
 
 monitors[1] = mnModel(filename="./" + analysis_name + ".log",printgen=100, separator = TAB)
 monitors[2] = mnFile(filename="./" + analysis_name + ".trees",printgen=100, separator = TAB, psi)
-monitors[3] = mnScreen(printgen=100, diversification, turnover, rootAge, clockRate)
+monitors[3] = mnScreen(printgen=1000, diversification, turnover, rootAge, clockRate)
 
 "Ancestral state reconstruction monitor:"
-monitors[3] = mnJointConditionalAncestralState(filename="./" + analysis_name + "ASR_joint.log", printgen=10, tree=psi, ctmc=seq, type="Protein", withStartStates=FALSE, append=FALSE, withTips=TRUE)
+monitors[3] = mnJointConditionalAncestralState(filename="./" + "16_1ASR_joint.log", printgen=10, tree=psi, ctmc=seq, type="Protein", withStartStates=FALSE, append=FALSE, withTips=TRUE)
 
 "Instantiating the MCMC"
 
 mymcmc = mcmc(mymodel, monitors, moves)
 
-mymcmc.burnin(generations=200,tuningInterval=10)
-mymcmc.run(generations=1000)
+mymcmc.burnin(generations=100,tuningInterval=10)
+mymcmc.run(generations=10)
 
 q()
