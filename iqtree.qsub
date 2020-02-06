@@ -5,4 +5,4 @@ cd /newhome/em16077/TIMASR
 
 module add apps/iqtree-1.6.3  
 
-iqtree -s neobmge.fas -m MFP -bb 1000 -wbtl
+iqtree -s neobmge2.fas -m MFP -bb 1000 -wbtl

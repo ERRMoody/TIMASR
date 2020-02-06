@@ -8,11 +8,11 @@
 #
 ################################################################################
 
-data_name     = "neobmge.fas"
-tree_name     = "LUCA_TIM_rooted_full.nwk"
-analysis_name = "16_1test_mixture"
+data_name     = "neobmge2.fas"
+tree_name     = "neobmge_rooted.nwk"
+analysis_name = "TIM_8_MIX"
 
-num_mixtures  = 16
+num_mixtures  = 8
 
 #######################
 # Reading in the Data #
@@ -27,7 +27,7 @@ starting_tree <- readTrees("./" + tree_name)[1]
 
 # Get some useful variables from the data. We need these later on.
 n_species  <- data.ntaxa()
-n_branches <- n_species * 2 - 1 
+n_branches <- n_species * 2 - 2 
 names      <- data.names()
 
 # set my move index
@@ -177,13 +177,13 @@ monitors[2] = mnFile(filename="./" + analysis_name + ".trees",printgen=100, sepa
 monitors[3] = mnScreen(printgen=1000, diversification, turnover, rootAge, clockRate)
 
 "Ancestral state reconstruction monitor:"
-monitors[3] = mnJointConditionalAncestralState(filename="./" + "16_1ASR_joint.log", printgen=10, tree=psi, ctmc=seq, type="Protein", withStartStates=FALSE, append=FALSE, withTips=TRUE)
+monitors[3] = mnJointConditionalAncestralState(filename="./" + "TIM_8_MIX.log", printgen=10, tree=psi, ctmc=seq, type="Protein", withStartStates=FALSE, append=FALSE, withTips=TRUE)
 
 "Instantiating the MCMC"
 
 mymcmc = mcmc(mymodel, monitors, moves)
 
 mymcmc.burnin(generations=100,tuningInterval=10)
-mymcmc.run(generations=10)
+mymcmc.run(generations=1000)
 
 q()
