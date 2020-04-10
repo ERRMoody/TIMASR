@@ -10,9 +10,10 @@
 
 data_name     = "neobmge2.fas"
 tree_name     = "neobmge2_rooted.nwk"
-analysis_name = "TIM_8_MIX"
 
-num_mixtures  = 8
+analysis_name = "tim_16"
+
+num_mixtures  = 16
 
 #######################
 # Reading in the Data #
@@ -27,7 +28,7 @@ starting_tree <- readTrees("./" + tree_name)[1]
 
 # Get some useful variables from the data. We need these later on.
 n_species  <- data.ntaxa()
-n_branches <- n_species * 2 - 2 
+n_branches <- n_species * 2 - 2
 names      <- data.names()
 
 # set my move index
@@ -67,6 +68,7 @@ for (i in 1:n_branches) {
    Q[i] ~ dnMixture(Q_mixture,mixture_probs)
    moves[++mi] = mvMixtureAllocation(Q[i], weight=1.0)
 }
+
 
 
 
@@ -141,9 +143,10 @@ moves[++mi] = mvNodeTimeSlideUniform(psi, weight=1.0)
 
 # We estimate the clock rate which should be around 0.01 (=1%) per million years per site
 
-logClockRate ~ dnUniform(-8,0)
+logClockRate ~ dnUniform(-4,0)
 moves[++mi] = mvSlide(logClockRate,delta=1,tune=true,weight=1.0)
 clockRate := 10^logClockRate
+
 
 
 ###################
@@ -158,10 +161,10 @@ seq ~ dnPhyloCTMC(tree=psi, Q=Q, siteRates=sr, pInv=p_inv, rootFrequencies=pi_ro
 # attach the data
 seq.clamp(data)
 
-
 #############
 # THE Model #
 #############
+
 
 "Creating the model"
 
@@ -172,18 +175,21 @@ mymodel = model(Q)
 
 "Adding monitors"
 
-monitors[1] = mnModel(filename="./" + analysis_name + ".log",printgen=100, separator = TAB)
-monitors[2] = mnFile(filename="./" + analysis_name + ".trees",printgen=100, separator = TAB, psi)
+monitors[1] = mnModel(filename="./" + analysis_name + num_mixtures + ".log",printgen=100, separator = TAB)
+monitors[2] = mnFile(filename="./" + analysis_name + num_mixtures + ".trees",printgen=100, separator = TAB, psi)
 monitors[3] = mnScreen(printgen=1000, diversification, turnover, rootAge, clockRate)
 
 "Ancestral state reconstruction monitor:"
-monitors[3] = mnJointConditionalAncestralState(filename="./" + "TIM_8_MIX.log", printgen=10, tree=psi, ctmc=seq, type="Protein", withStartStates=FALSE, append=FALSE, withTips=TRUE)
+monitors[3] = mnJointConditionalAncestralState(filename="./ASR_joint" + num_mixtures + ".log", printgen=100, tree=psi, ctmc=seq, type="Protein", withStartStates=FALSE, 	append=FALSE, withTips=TRUE)
+#monitors[4] = mnAncestralState(filename="Output/ASR.log", printgen=100, tree=psi, ctmc=seq, type="AA")
+
 
 "Instantiating the MCMC"
 
-mymcmc = mcmc(mymodel, monitors, moves)
+#mymcmc = mcmc(mymodel, monitors, moves)
+mymcmc = mcmcmc(mymodel, monitors, moves, nchains=4, swapInterval=10, deltaHeat=0.2)
+mymcmc.burnin(generations=1000,tuningInterval=100)
+mymcmc.run(generations=10000)
 
-mymcmc.burnin(generations=100,tuningInterval=10)
-mymcmc.run(generations=1000)
-
+# you may want to quit RevBayes now
 q()

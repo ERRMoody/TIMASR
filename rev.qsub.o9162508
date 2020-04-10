@@ -1,0 +1,25 @@
+
+RevBayes version (1.0.12)
+Build from master (a6d466) on Tue Jun 11 14:51:53 BST 2019
+
+Visit the website www.RevBayes.com for more information about RevBayes.
+
+RevBayes is free software released under the GPL license, version 3. Type 'license()' for details.
+
+To quit RevBayes type 'quit()' or 'q()'.
+
+
+> source("TIMrev.rev")
+   Processing file "TIMrev.rev"
+   Reading in the data
+   Successfully read one character matrix from file './neobmge2.fas'
+   Attempting to read the contents of file "neobmge2_rooted.nwk"
+   Successfully read file
+   Setting up the substitution model
+   Rate variability across sites
+   Specifying the tree model
+   Setting up the strict clock
+   Setting up the PhyloCTMC
+   Error:	Cannot find taxon 'KKK43788_1_Bifunctional_PGK_TI' in the HomologousDiscreteCharacterData matrix.
+   Error:	Problem processing line 159 in file "TIMrev.rev"
+> 
