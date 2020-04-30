@@ -1,0 +1,4029 @@
+
+RevBayes version (1.0.8)
+Build from master (94149b) on Fri Jul 27 18:29:44 BST 2018
+
+Visit the website www.RevBayes.com for more information about RevBayes.
+
+RevBayes is free software released under the GPL license, version 3. Type 'license()' for details.
+
+To quit RevBayes type 'quit()' or 'q()'.
+
+
+> source("new16.rev")
+   Processing file "new16.rev"
+   Reading in the data
+   Successfully read one character matrix from file './neobmge2.fas'
+   Attempting to read the contents of file "neobmge2_rooted.nwk"
+   Successfully read file
+   Setting up the substitution model
+   Rate variability across sites
+   Specifying the tree model
+   Setting up the strict clock
+   Setting up the PhyloCTMC
+   Creating the model
+   Adding monitors
+   Ancestral state reconstruction monitor:
+   Instantiating the MCMC
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Could not compute lnProb for node seq.
+   Protein character matrix with 481 taxa and 4610 chara
+
+   Drawing new initial states ...
+   Error:	Unable to find a starting state with computable probability after 1000 tries
+   Error:	Problem processing line 190 in file "new16.rev"
+> 
